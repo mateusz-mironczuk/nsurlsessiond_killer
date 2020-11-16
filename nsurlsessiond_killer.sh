@@ -1,6 +1,6 @@
 #!/bin/bash
 while :
 do
-	killall -q nsurlsessiond
+	killall -9 nsurlsessiond
 	sleep 5
 done
