@@ -1,5 +1,5 @@
 # nsurlsessiond_killer
-Kills nsurlsessiond deamon.
+Kills ```nsurlsessiond``` deamon.
 
 ## Installation
 1. Clone the repository.
