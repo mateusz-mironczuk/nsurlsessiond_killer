@@ -1,6 +1,6 @@
 #!/bin/bash
 while :
 do
-	killall -v -9 nsurlsessiond
+	sudo killall -v -9 nsurlsessiond
 	sleep 5
 done
